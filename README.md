@@ -19,7 +19,7 @@
 | Systèmes Discord : flotte de bots, modération, onboarding, voix | Discord systems: bot fleet, moderation, onboarding, voice |
 | Montage vidéo et pipelines médias (DaVinci Resolve, Remotion, FFmpeg) | Video editing & media pipelines (DaVinci Resolve, Remotion, FFmpeg) |
 | 3D, motion et création (Blender, Unreal, After Effects, FL Studio) | 3D, motion & creative (Blender, Unreal, After Effects, FL Studio) |
-| Infrastructure : VPS Linux, sauvegardes vérifiées, retour arrière | Infrastructure: Linux VPS, verified backups, rollback |
+| Linux, réseaux et infrastructure : Kali, administration à distance (SSH), VPS, sauvegardes vérifiées, retour arrière | Linux, networking & infrastructure: Kali, remote administration (SSH), VPS, verified backups, rollback |
 
 ## Méthode · How I work
 
@@ -32,9 +32,11 @@
 
 **FR** — Maîtrise de nombreux langages et environnements · **EN** — Fluent in many languages and environments.
 
-**Langages · Languages** : `Python` · `TypeScript` · `JavaScript` · `Rust` · `PowerShell` · `Bash` · `SQL` · `HTML/CSS` · `+ autres / more`
+**Langages · Languages** : `Python` · `TypeScript` · `JavaScript` · `Rust` · `PowerShell` · `Bash` · `SQL` · `C#` · `COBOL` · `HTML/CSS` · `+ autres / more`
 
 **Frameworks & plateformes · Platforms** : `discord.py` · `Node.js` · `Next.js` · `Tauri` · `Docker` · `Linux` · `Supabase` · `n8n`
+
+**Systèmes & réseaux · Systems & networks** : `Linux` (Debian/Ubuntu, `Kali`) · administration système / sysadmin · réseaux / networking · `SSH` & contrôle à distance / remote access · infrastructure · durcissement / hardening · tests d'intrusion / pentesting
 
 **IA · AI** : agents · RAG · fine-tuning · orchestration multi-modèles / multi-model orchestration
 
