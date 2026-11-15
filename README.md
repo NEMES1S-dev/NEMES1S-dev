@@ -28,9 +28,17 @@
 - **FR** — Vie privée d'abord : données minimales, aucun secret dans le code ni dans les journaux.
 - **EN** — Privacy first: minimal data, no secrets in code or logs.
 
-## Stack
+## Langages & outils · Languages & tools
 
-`Python` · `TypeScript` · `discord.py` · `Tauri` · `n8n` · `Linux` · `Docker` · `FFmpeg` · `Remotion` · `DaVinci Resolve` · `Blender` · `Unreal Engine`
+**FR** — Maîtrise de nombreux langages et environnements · **EN** — Fluent in many languages and environments.
+
+**Langages · Languages** : `Python` · `TypeScript` · `JavaScript` · `Rust` · `PowerShell` · `Bash` · `SQL` · `HTML/CSS` · `+ autres / more`
+
+**Frameworks & plateformes · Platforms** : `discord.py` · `Node.js` · `Next.js` · `Tauri` · `Docker` · `Linux` · `Supabase` · `n8n`
+
+**IA · AI** : agents · RAG · fine-tuning · orchestration multi-modèles / multi-model orchestration
+
+**Création · Creative** : `DaVinci Resolve` · `Remotion` · `FFmpeg` · `Blender` · `Unreal Engine` · `After Effects` · `FL Studio`
 
 ---
 
