@@ -8,6 +8,28 @@
 
 ---
 
+## Le projet NEMES1S · The NEMES1S project
+
+**FR** — Un écosystème complet, conçu, construit et opéré de bout en bout :
+
+- **Communauté Discord** : une flotte de bots spécialisés (modération, accueil en 12 langues, tickets, niveaux, musique, événements), des personnages vocaux qui parlent en direct, un parcours d'arrivée guidé et un consentement par catégorie (rien n'est envoyé sans accord).
+- **Web & applications** : site installable sur mobile (PWA), espace membres, tableaux de bord privés, application de bureau pour la surveillance et l'optimisation du PC.
+- **IA** : orchestration de plusieurs modèles, mémoire documentaire (RAG), agents qui travaillent en équipe avec contrôle humain, détection automatique de la langue.
+- **Automatisation** : campagnes de développement avec point de retour, autotests et rapport ; sauvegardes vérifiées et envoyées vers le cloud ; tâches planifiées.
+- **Sécurité & vie privée** : secrets jamais affichés, données minimales, protection des mineurs, journaux d'audit.
+- **Création** : clips musicaux, montages e-sport, univers visuel et narratif, overlays de live.
+
+**EN** — A complete ecosystem, designed, built and run end to end:
+
+- **Discord community**: a fleet of specialised bots (moderation, onboarding in 12 languages, tickets, levels, music, events), voice characters that talk live, a guided arrival path and per-category consent (nothing is sent without opt-in).
+- **Web & apps**: installable mobile site (PWA), member area, private dashboards, a desktop app for PC monitoring and optimisation.
+- **AI**: multi-model orchestration, document memory (RAG), agents working as a team under human control, automatic language detection.
+- **Automation**: development campaigns with rollback points, self-tests and reports; verified cloud backups; scheduled jobs.
+- **Security & privacy**: secrets never displayed, minimal data, protection of minors, audit logs.
+- **Creative**: music videos, e-sport edits, visual and narrative universe, live overlays.
+
+*Le code reste privé · The code stays private.*
+
 ## Domaines · Fields
 
 | FR | EN |
